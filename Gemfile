@@ -2,6 +2,8 @@ source "https://rubygems.org"
 gem 'github-pages'
 gemspec
 
+bundler (2.0.1)
+
 group :jekyll_plugins do
   gem "jekyll-default-layout"
   gem "jekyll-paginate"
